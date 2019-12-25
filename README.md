@@ -1,4 +1,5 @@
-#linking
+linking
+=======
 
 [![Badge](https://badge.fury.io/py/linking.svg "Badge")](https://badge.fury.io/py/linking "Badge")
 
@@ -12,14 +13,16 @@ linking is easy to use linkifier that converts URLs and emails to HTML hyperlink
 
 
 
-###Installing linking
+Installing linking
+------------------
 
 linking is available on [PyPI](https://pypi.org/project/linking/), so you can install it with ``pip``::
 
     $ pip install linking
 
 
-###Basic use
+Basic use
+---------
 
 The simplest way to use linking is:
 
